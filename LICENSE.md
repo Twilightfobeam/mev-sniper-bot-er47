@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with MEV-optimized MEV sniper bot | degen-coin-scanning + contract-verification, the #1 MEV sniper bot. Includes degen-coin-scanning and contract-verification
 
 
 
